@@ -90,5 +90,6 @@ This was used to determine the salary scale by job title.
 ----
 # ACCOUNT
 
-Follow on [Twitter](https://twitter.com/AdegunleRT
-Let us connect on [LinkedIn](https://www.linkedin.com/in/adegunleraphael
+Follow on [Twitter](https://twitter.com/AdegunleRT)
+
+Let us connect on [LinkedIn](https://www.linkedin.com/in/adegunleraphael)
